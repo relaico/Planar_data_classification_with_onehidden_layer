@@ -2,6 +2,14 @@
 Planar Data Classification with One Hidden Layer (Version 6)
 
 -[overview](#overview)
+-[Neural Network Architecture](#Neural Network Architecture)
+-[Training Parameters](#Training Parameters)
+-[Results](#Results)
+-[Dependencies](#Dependencies)
+-[How to Interpret the Results](#How to Interpret the Results)
+-[Tips for Improvement](#Tips for Improvement)
+-[Acknowledgments](#Acknowledgments)
+-[License](#License)
 
 Overview
 
