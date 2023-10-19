@@ -16,6 +16,7 @@ Planar Data Classification with One Hidden Layer (Version 6)
 ##Overview
 
 This project focuses on classifying data that resembles a flower, consisting of red and blue dots on a 2D plane. Logistic regression was initially used for classification, but it yielded a low accuracy of 47%. Since the flower data is not linearly separable, a neural network with one hidden layer was implemented for improved performance.
+
 ##Neural Network Architecture
 
     Input Layer: 2 units
@@ -32,6 +33,7 @@ This project focuses on classifying data that resembles a flower, consisting of 
 ##Results
 
 Various experiments were conducted with different numbers of hidden layers: 1, 2, 3, 4, 5, 20, and 50. It was observed that the best performance was achieved with 5 hidden units. Increasing the number of hidden units beyond 5 led to overfitting, resulting in poorer generalization.
+
 ##Dependencies
 
     numpy: For numerical operations.
